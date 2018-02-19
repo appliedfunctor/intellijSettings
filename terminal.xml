@@ -1,5 +1,5 @@
 <application>
   <component name="TerminalOptionsProvider">
-    <option name="myShellPath" value="%LOCALAPPDATA%\wsltty\bin\mintty.exe --WSL= --configdir=&quot;%APPDATA%\wsltty&quot; /bin/zsh -l" />
+    <option name="myShellPath" value="&quot;%LOCALAPPDATA%\wsltty\bin\mintty.exe --WSL= --configdir=&quot;%APPDATA%\wsltty&quot; /bin/zsh -l&quot;" />
   </component>
 </application>
