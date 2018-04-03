@@ -18,8 +18,12 @@
           <option name="url" value="https://github.com/aworton/CheckoutKata.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/aworton/set-game.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\aworton\IdeaProjects" />
+    <option name="cloneParentDir" value="C:\Users\kesom\itv" />
   </component>
 </application>
