@@ -1,5 +1,7 @@
 <application>
   <component name="TerminalOptionsProvider">
+    <option name="myShellIntegration" value="false" />
     <option name="myShellPath" value="&quot;C:\Windows\System32\bash.exe&quot;" />
+    <option name="mySoundBell" value="false" />
   </component>
 </application>
