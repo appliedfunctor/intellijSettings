@@ -8,11 +8,15 @@
   </JavaCodeStyleSettings>
   <ScalaCodeStyleSettings>
     <option name="classCountToUseImportOnDemand" value="20" />
+    <option name="NOT_CONTINUATION_INDENT_FOR_PARAMS" value="true" />
   </ScalaCodeStyleSettings>
   <codeStyleSettings language="JAVA">
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
       <option name="TAB_SIZE" value="2" />
     </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="Scala">
+    <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
   </codeStyleSettings>
 </code_scheme>
